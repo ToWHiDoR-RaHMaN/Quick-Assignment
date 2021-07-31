@@ -1,0 +1,235 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    border-bottom: 1px solid rgb(204 204 204);
+}
+.header_part{
+
+    overflow: hidden;
+    
+    margin-left: 5%;
+    
+    width: 90%;
+    margin-top: 10px;
+    }
+    .logo{
+    
+    width: 20%;
+    
+    float: left;
+    }
+nav {
+    width: 50%;
+    float: right;
+    overflow: hidden;
+}
+
+ul {
+    list-style: none;
+    overflow: hidden;
+    float: right;
+}
+
+li {
+    float: left;
+    margin-left: 20px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 15px;
+    text-transform: capitalize;
+    color: black;
+}
+.contant_section{
+
+width: 70%;
+
+margin-left: 15%;
+
+text-align: center;
+}
+.contant_section h1{
+    color: #0F2656;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 45px;
+}
+.contant_section h2{
+    
+color: #008AFF;
+    
+text-align: center;
+    
+font-size: 44px;
+    
+margin-top: 15px;
+}
+.contant_section p{
+    
+text-align: center;
+    
+color: #0F2656;
+    
+margin: 20px 0;
+}
+.img{
+    text-align: center;
+}
+.img img{
+    width: 50%;
+}
+.project_contant{
+
+overflow: hidden;
+}
+.left_contant{
+
+width: 48%;
+
+float: left;
+}
+.left_contant h1{
+    
+color: #F15767;
+    
+text-align: right;
+}
+.left_contant p{
+
+text-align: right;
+}
+.right_contant{
+
+width: 48%;
+
+float: right;
+}
+.right_contant h1{
+    color: #0F2656;
+    text-align:left;
+    margin-top: 30px;
+    font-size: 45px;
+}
+.service{
+
+width: 90%;
+
+overflow: hidden;
+
+margin-left: 5%;
+
+margin-bottom: 50px;
+
+margin-top: 50px;
+}
+.service_one{
+
+background: #FDEBED;
+
+width: 29%;
+
+float: left;
+
+text-align: center;
+
+padding: 30px 10px;
+}
+.service_one img{
+
+width: 40%;
+
+padding-top: 10px;
+}
+.service_one h2{
+
+text-align: left;
+
+padding: 10px;
+}
+.service_one p{
+
+text-align: left;
+
+padding: 10px;
+}
+
+.service_two{
+
+padding: 30px 10px;
+
+width: 30%;
+
+background: #EBF9F4;
+
+float: left;
+
+margin-left: 3%;
+
+text-align: center;
+}
+.service_two img{
+
+width: 50%;
+}
+.service_two h2{
+
+text-align: left;
+
+padding: 10px;
+}
+.service_two p{
+
+text-align: left;
+}
+
+.service_three{
+
+width: 30%;
+
+background: #FFF7E8;
+
+float: right;
+
+text-align: center;
+
+padding: 30px 10px;
+}
+.service_three img{
+
+width: 45%;
+
+padding-top: 10px;
+}
+.service_three h2{
+
+text-align: left;
+
+padding: 10px;
+}
+.service_three p{
+
+text-align: left;
+}
+footer{
+
+background: #008AFF;
+
+text-align: center;
+
+padding: 20px 0;
+}
+footer p{
+
+color: #bfbfbf;
+}
+footer p span{
+
+color: white;
+
+font-size: 20px;
+
+font-weight: 700;
+}
